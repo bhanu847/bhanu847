@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Bhanu  👋
 **Data Scientist | Machine Learning Enthusiast | AI Innovator**
 
 ![Profile Image](https://th.bing.com/th/id/R.de5d88d7b1c10ee458b74e7700ea61a6?rik=tXF8akER2UngrA&riu=http%3a%2f%2f3.bp.blogspot.com%2f-RUgGQOQvCLI%2fT3GOHsMUqeI%2fAAAAAAAAEEA%2fhBKirjZkYo4%2fs1600%2fjohnny%2b10.jpg&ehk=cGBHUIXJwPkEa%2fjeH35%2bXXc%2bDN3DV5w07OUqYy5bk8w%3d&risl=&pid=ImgRaw&r=0)
